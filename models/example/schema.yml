@@ -10,7 +10,6 @@ models:
             description: "The primary key for this table"
             tests:
                - not_null
-
 - name: sampleData
       description: "newly created dbt model"
       columns:
