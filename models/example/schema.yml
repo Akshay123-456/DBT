@@ -9,7 +9,7 @@ models:
             description: "The primary key for this table"
             tests:
                 - not_null
-    - name: sampleData
+    - name: newData
       description: "A starter dbt model"
       columns:
           - name: REGION
